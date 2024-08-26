@@ -1,2 +1,2 @@
-# VGGNet-Animal_Classification
+# VGGNet
 VGGNet implementation in PyTorch
